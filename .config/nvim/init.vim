@@ -18,7 +18,7 @@ set nobackup
 set incsearch
 set termguicolors
 set scrolloff=8
-set colorcolumn=80
+"set colorcolumn=80
 set signcolumn=yes
 
 set foldmethod=marker
