@@ -34,6 +34,6 @@ Plug 'gruvbox-community/gruvbox'
 Plug 'tpope/vim-fugitive'
 call plug#end()
 
-"colorscheme gruvbox
+colorscheme gruvbox
 highlight Normal guibg=none
 let mapleader = " "
